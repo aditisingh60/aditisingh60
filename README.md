@@ -14,7 +14,7 @@
 
 I'm a passionate **Full Stack & Frontend Developer** who loves crafting clean, efficient, and scalable web applications. I believe great software is not just functional — it's beautiful, maintainable, and purposeful.
 
-- 🔭 **Currently working on** — [Intervue]([https://github.com/aditi](https://github.com/aditisingh60/mock-interview-platform)) — an AI-powered mock interview platform, and **MindMatrics**, a mental wellness + productivity web app
+- 🔭 **Currently working on** — [Intervue](https://github.com/aditisingh60/mock-interview-platform) — an AI-powered mock interview platform, and **MindMatrics**, a mental wellness + productivity web app
 - 🌱 **Currently learning** — DevOps practices, Docker, and containerized deployments
 - 👯 **Looking to collaborate on** — Real-world full stack projects, data analysis dashboards, open-source contributions, and meaningful products that solve actual problems
 - 🎯 **Goals for 2025** — Ship production-ready apps, go deeper into cloud infrastructure, and contribute to the dev community
